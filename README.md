@@ -13,10 +13,12 @@ This is a Flutter application that demonstrates advanced UI and navigation patte
 ![Home Fragment Landscape](activity7/homeFragmentLandscape.png)
 
 ### Profile
-![Profile Fragment](activity7/profileFragment.png)
+![Profile Gallery Fragment](activity7/profileGalleryFragment.png)
+![Profile Info Fragment](activity7/profileInfoLandscape)
 ![Profile Gallery Landscape](activity7/profileGalleryLandscape.png)
 ![Profile Info Landscape](activity7/profileInfoLandscape.png)
 
 ### Settings
 ![Settings Fragment](activity7/settingsFragment.png)
 ![Settings Landscape](activity7/settingsLandscape.png)
+
