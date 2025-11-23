@@ -14,7 +14,7 @@ This is a Flutter application that demonstrates advanced UI and navigation patte
 
 ### Profile
 ![Profile Gallery Fragment](activity7/profileGalleryFragment.png)
-![Profile Info Fragment](activity7/profileInfoLandscape)
+![Profile Info Fragment](activity7/profileInfoLandscape.png)
 ![Profile Gallery Landscape](activity7/profileGalleryLandscape.png)
 ![Profile Info Landscape](activity7/profileInfoLandscape.png)
 
