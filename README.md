@@ -22,7 +22,7 @@ This is a Flutter application that demonstrates advanced UI and navigation patte
 ![Settings Fragment](activity7/settingsFragment.png)
 ![Settings Landscape](activity7/settingsLandscape.png)
 
-## Analysis and Learning
+## Reflection
 
 ### 1. What did you learn about using fragments and navigation components?
 Coming from other platforms, I was used to the term "fragments," and I learned that in Flutter, the closest equivalent is just a modular widget. For instance, `HomeScreen` and `ProfileScreen` are treated as separate, reusable UI components. For the main navigation, I saw how `BottomNavigationBar` was paired with an `IndexedStack`. I thought this was a clever way to keep each screen's state alive, so when you tap back to a previous tab, you don't lose your scroll position or any data. I also noticed a neat hierarchical navigation pattern in the `ProfileScreen`, where a `TabBar` was nested inside one of the main screens.
